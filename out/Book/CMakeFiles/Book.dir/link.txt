@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libBook.a CMakeFiles/Book.dir/Book.cpp.obj CMakeFiles/Book.dir/PaintingBook.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libBook.a
